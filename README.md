@@ -7,10 +7,10 @@
 
 - 🔭 I’m Skill Hunter who always love to learn new something.
 - 🌱 I’m currently learning **What i Need** 🤣
-- 💻 
+- 💻 FLUTTER IS MY MAIN HAPPINESS 
 - 👯 I’m looking to collaborate on Open Source projects
 - 📫 How to reach me:  or or <a rel="me" href="mailto:tanjid2020@gmail.com">Email</a>
-- 🎯 Futter Mission is Google flutter Dev.
+- 🎯 Future Mission is to be a solid Developer.
 - ⚡ Fun fact: I Love to hanging out with friend  ✈️  and fun with them
 
 ## Connect with Me
